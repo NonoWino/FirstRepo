@@ -9,3 +9,4 @@ naturals = natural_numbers()
 for _ in range(10):
 
     print(next(naturals))
+
